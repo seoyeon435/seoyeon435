@@ -11,8 +11,8 @@
 | 대학생을 위한 데스크탑 전용 플래너 | HTML, CSS, JavaScript | 2025.06 | LikeLion | [Repo](https://github.com/LikeLion-at-DGU/2025-simba-6-BeBee.git) |
 | 동네소리를 공유하는 커뮤니티 서비스 | JavaScript, React, Vite, Netlify | 2025.08 | LikeLion | [Repo](https://github.com/LikeLion-at-DGU/2025-hackathon-4-WETOWN-frontend) |
 | 2025 한국문화관광연구원 공모전 | SPSS, Python | 2025.08 | BAF | |
-| 2025_동국대_가을축제사이트 |  JavaScript, React, Vite, Netlify | 2025.09 | LikeLion | [Repo](https://github.com/LikeLion-at-DGU/2025_fall_festival_front.git)  |
-| AI 발표 지원 서비스 '보이니' |  JavaScript, React, Vite, Netlify | 2025.11 ~ 2025.12 | LikeLion | [Repo](https://github.com/likelion-line4thon-crushers/line4thon-presentation-frontend.git) & [바로가기](https://boini.kr/) |
+| 2025_동국대_가을축제사이트 |  JavaScript, React, Vite, Netlify | 2025.09 | LikeLion | [Repo](https://github.com/LikeLion-at-DGU/2025_fall_festival_front.git) & [서비스 바로가기(서버종료)](https://dgu-fallfesta.site) |
+| AI 발표 지원 서비스 '보이니' |  JavaScript, React, Vite, Netlify | 2025.11 ~ 2025.12 | LikeLion | [Repo](https://github.com/likelion-line4thon-crushers/line4thon-presentation-frontend.git) & [서비스 바로가기](https://boini.kr/) |
 
 
 
