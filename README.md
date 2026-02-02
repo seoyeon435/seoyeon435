@@ -35,7 +35,9 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
 ![VSCode](https://img.shields.io/badge/VSCode-007ACC?style=flat&logo=visualstudiocode&logoColor=white)
-
+![Notion](https://img.shields.io/badge/Notion-000000?style=flat&logo=notion&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)
+![Slack](https://img.shields.io/badge/Slack-4A154B?style=flat&logo=slack&logoColor=white)
 ---
 
 ## 📜 Certification
@@ -44,14 +46,12 @@
 - TESAT(경제이해력 검증시험)
 - TOEIC 835점
 
-## 🏆 Awardsㅍㅎ
+## 🏆 Awards
 - 2025 관광데이터 분석 공모전 대상
 - 2025 멋쟁이사자처럼 4호선톤 대상
 - 2025 SW교육원& 동국대학교 멋쟁이사자처럼 해커톤 2등
 
 ---
-
-
 
 ## 📫 Contact
 - Email: 0305psy@naver.com
